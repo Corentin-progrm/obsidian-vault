@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "9513eebbbe4169f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "db486df812ae33b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b183addb766a4d36",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17a4e1764648bcc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc56d07b3e71ee3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65cf2197797c141b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "767b8f7706bbb5ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e4942f88c7e906b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b38ccda422d2a66f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dafd9a30997fceb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4ce0c41297af2cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "remote_blog/test readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for test readme"
+            }
+          },
+          {
+            "id": "48c2d159425653c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "remote_blog/test readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from test readme"
+            }
+          },
+          {
+            "id": "8b278f7c91d2d730",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c730d9341cca4be0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b183addb766a4d36",
+  "lastOpenFiles": [
+    "ELEVault/README.md",
+    "Guide - Utilisation d'Obsidian avec le plugin Git pour GitHub.md",
+    "test",
+    "ELEVault",
+    "Untitled.md",
+    "ELEVault2/README.md",
+    "ELEVault2",
+    "ELEVault",
+    "test2/README.md",
+    "conflict-files-obsidian-git.md",
+    "test2",
+    "remote_blog/test readme.md",
+    "remote_blog",
+    "README.md"
+  ]
+}
